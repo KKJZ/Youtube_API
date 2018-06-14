@@ -14,7 +14,7 @@ function getDataFromApi(searchTerm, callback) {
 			maxResults: 5,
 			type: 'video',
 			dataType:'json',
-			type: 'GET',
+			method: 'GET',
 			success: callback,
 			}
 		};
