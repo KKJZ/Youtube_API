@@ -1,3 +1,29 @@
 * {
 	box-sizing: border-box;
 }
+
+img {
+	border: 0;
+}
+
+h1 {
+	text-align: center;
+}
+
+input {
+	display: block;
+	margin: auto;
+}
+
+button {
+	display: block;
+	margin: auto;
+}
+
+h2 {
+	text-align: center;
+}
+
+div.results {
+	text-align: center;
+}
