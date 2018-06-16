@@ -27,3 +27,10 @@ h2 {
 div.results {
 	text-align: center;
 }
+
+.user a:hover,
+.user a:focus,
+input:focus,
+button:focus {
+  outline: 5px dotted red;
+}
